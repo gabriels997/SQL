@@ -1,4 +1,4 @@
---                           Terceira operação do CRUDE - UPDATE
+--                           Terceira operação do CRUD - UPDATE
 --  !!Atenção no WHERE!!
 
 
@@ -12,7 +12,7 @@ SET id = 4 -- mais de 1 usuario estava com o ID 1, fiz a alteração
 WHERE email = "teste@teste.com";
 
 
---                           Quarta operação do CRUDE - DELETE
+--                           Quarta operação do CRUD - DELETE
 --  !!Atenção no WHERE!!
 
 

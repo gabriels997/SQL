@@ -15,7 +15,7 @@
 
 
 
---                           Primeira operação do CRUDE - CREATE
+--                           Primeira operação do CRUD - CREATE
 
 
 --INSERT
@@ -29,7 +29,7 @@ INSERT INTO destino (id, nome, descricao) VALUES (1, "Praia do Teste", "Linda pr
 INSERT INTO reservas (id, id_usuario, id_destino, status, data) VALUES (1, 1,1, "pendente", "2025-11-11");
 
 -----------------------------------------------------------------------------------------------------------------
--- Segunda operação do CRUDE - READ
+-- Segunda operação do CRUD - READ
 
 
 --SELECT
